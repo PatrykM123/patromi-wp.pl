@@ -1,0 +1,1 @@
+# patromi-wp.pl
